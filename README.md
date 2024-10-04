@@ -1,2 +1,2 @@
-# Inclusivity-and-Accessibility-Focused-Text-Summarization-
+# Inclusivity-and-Accessibility-Focused-News-Website
 HCI Project
